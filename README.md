@@ -64,5 +64,4 @@
 
 <br>
 
-https://github.com/abeershboul/Pam-s-Tic-Tac-Toe-game/pull/1
-
+https://github.com/abeershboul/game_tic_tac_to
